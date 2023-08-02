@@ -1,0 +1,23 @@
+email:
+  id: 'aznor1990@gmail.com'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-sharp fa-solid fa-paper-plane fa-2x'
+
+linkedin:
+  id: 'aznor-yusof'
+  href: 'https://linkedin.com/in/'
+  title: 'LinkedIn'
+  fa-icon: 'fa-brands fa-linkedin fa-2x'
+
+github:
+  id: 'Aznoryusof'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-brands fa-square-github fa-2x'
+
+resume:
+  id: 'data_scientist_resume.pdf'
+  href: 'https://aznoryusof.github.io/assets/'
+  title: 'Resume'
+  fa-icon: 'fa-solid fa-file-lines fa-2x'
