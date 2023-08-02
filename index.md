@@ -2,7 +2,7 @@
 
 ---
 
-### What's in A Name: Gender Prediction of Names with Character-Level Bi-LSTMs
+### What's in A Name: Gender Prediction of Names using Character-Level Bi-LSTMs
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1qGiYBDwrnWagtpmpASsjvwg5zRUau9B8#scrollTo=lvm5ceE-gDIS)
 
