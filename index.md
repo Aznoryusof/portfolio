@@ -1,35 +1,29 @@
-## Portfolio
+## Personal Projects
 
 ---
 
-### Category Name 1 
+### What's in A Name: Gender Prediction of Names with Character-Level Bi-LSTMs
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1qGiYBDwrnWagtpmpASsjvwg5zRUau9B8#scrollTo=lvm5ceE-gDIS)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+In this challenge, I built a character-level bi-lstm to predict the gender of names with an accuracy of 91%.
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true" alt=""/>
+
+[Paper](https://arxiv.org/abs/2211.04367) &#124; [Github](https://github.com/Aznoryusof/portfolio)
 
 ---
 
-### Category Name 2
+### Best Practices for Detecting Fraudulent Transactions using Machine Learning
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1qGiYBDwrnWagtpmpASsjvwg5zRUau9B8#scrollTo=lvm5ceE-gDIS)
+
+This is a playbook for experimenting with a variety of Machine Learning Models to detect low occuring events. 
+
+A model was built with an F1 score of X%.
+
+<img src="images/dummy_thumbnail.jpg?raw=true" alt=""/>
+
+[Paper](https://arxiv.org/abs/2211.04367) &#124; [Github](https://github.com/Aznoryusof/portfolio)
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
