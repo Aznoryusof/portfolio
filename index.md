@@ -1,6 +1,8 @@
 ## Personal Projects
 
-### Steps-by-Step Guide on Fine-Tuning Llama 2 13B to Automatically Summarise Meeting Transcriptions. 
+---
+
+### Step-by-Step Guide on Fine-Tuning Llama 2 13B for Meeting Transcript Summarisation. 
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1qGiYBDwrnWagtpmpASsjvwg5zRUau9B8?usp=sharing)
 
