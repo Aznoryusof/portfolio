@@ -10,7 +10,7 @@ In the notebook linked above, I demonstrate how to conduct instruction-tuning on
 
 The model was fine-tuned on the MeetingBank Dataset using the QLoRa technique from the PEFT library and took ~7 hours to train on an A100 GPU on Google Colab.
 
-The fine-tuned model can be accessed from my Hugging Face Repository linked below for futher fine-tuning (on a small dataset) in order to achieve any style of summary (e.g. format, tone, lexicon etc.) 
+The fine-tuned model can be accessed from my Hugging Face Repository linked below for futher fine-tuning (on a small dataset) in order to achieve any style of summary (e.g. format, tone, lexicon etc.).
 
 <img src="images/llama2_image.png?raw=true" alt=""/>
 
